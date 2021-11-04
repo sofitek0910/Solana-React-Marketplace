@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { Card } from 'antd';
 
 import { Artist } from '../../types';
-
 import { shortenAddress } from '@oyster/common';
 import { MetaAvatar } from '../MetaAvatar';
 
